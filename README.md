@@ -1,0 +1,2 @@
+# Aplicacao_Pratica_Python_Ciencia_Dados_FINAL
+trabalho da faculdade 
